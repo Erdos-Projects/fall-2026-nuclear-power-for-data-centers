@@ -1,0 +1,105 @@
+date,region,unit_name,power_pct,down_raw,reason_comment,change_raw,scrams_raw,source_url
+1999-04-06,1,Beaver Valley 1,98.0,,POWER LIMITED DUE TO AN OUT OF SERVICE MOISTURE SEPARATOR REHEATER,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Beaver Valley 2,0.0,1999-02-26,EXITING REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Calvert Cliffs 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Calvert Cliffs 2,0.0,1999-03-12,REFUELING OUTAGE - DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,FitzPatrick,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Ginna,0.0,1999-03-01,REFUELING OUTAGE - FUEL RELOAD COMPLETE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Hope Creek 1,91.0,,INCREASING POWER AFTER EXITING A REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Indian Point 2,99.0,,MAXIMUM OPERATING POWER DUE TO TURBINE CONTROL VALVE POSITION,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Indian Point 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Limerick 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Limerick 2,84.0,,COASTDOWN TO REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Millstone 2,0.0,1996-02-20,REFUELING OUTAGE - COOLDOWN IN PROGRESS - PLAN TO ENTER MODE 5 (COLD SHUTDOWN) TO REPAIR A SMALL (400 ml/min) BODY-TO-BONNET LEAK IN A SHUTDOWN COOLING SUCTION VALVE (FIRST VALVE OFF OF THE HOT LEG) -  LEAK UNISOLABLE FROM REACTOR COOLANT SYSTEM,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Millstone 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Nine Mile Point 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Nine Mile Point 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Oyster Creek,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Peach Bottom 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Peach Bottom 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Pilgrim 1,80.0,,HOLDING POWER AT THIS LEVEL DUE TO AN INOPERABLE MAIN STEAM ISOLATION VALVE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Salem 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Salem 2,0.0,1999-04-03,ENTERING REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Seabrook 1,0.0,1999-03-27,REFUELING OUTAGE - REACTOR VESSEL HEAD REMOVED - FLOOD-UP IN PROGRESS,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Susquehanna 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Susquehanna 2,0.0,1999-03-12,REFUELING OUTAGE - FUEL PARTIALLY OFFLOADED - FUEL SHUFFLE SUSPENDED DUE TO REFUELING MACHINE PROBLEMS,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Three Mile Island 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,1,Vermont Yankee,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Browns Ferry 1,0.0,1985-03-03,DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Browns Ferry 2,82.0,,COASTDOWN TO REFUELING OUTAGE AND PERFORMANCE OF FEEDWATER SYSTEM MAINTENANCE ACTIVITIES,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Browns Ferry 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Brunswick 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Brunswick 2,96.0,,COASTDOWN TO REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Catawba 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Catawba 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Crystal River 3,60.0,,HOLDING POWER AT THIS LEVEL TO TROUBLESHOOT A SECOND CONDENSATE PUMP TRIP - SWAPPED TO FROM 'B' CONTROLLER TO SPARE CONTROLLER AFTER FIRST TRIP (OVER WEEKEND) - LOOKING FOR COMMON CAUSE AFTER SECOND TRIP,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Farley 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Farley 2,49.0,,OPERATING AT REDUCED POWER TO AVOID COASTDOWN DURING PEAK DEMAND PERIOD,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Harris 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Hatch 1,0.0,1999-03-01,REFUELING OUTAGE - FUEL SHUFFLE COMPLETE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Hatch 2,98.0,,MAXIMUM OPERATING POWER DUE TO TURBINE CONTROL VALVE POSITION AFTER PERFORMANCE OF POWER UPRATE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,McGuire 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,McGuire 2,0.0,1999-03-12,REFUELING OUTAGE - FUEL RELOAD COMPLETE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,North Anna 1,100.0,,,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,North Anna 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Oconee 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Oconee 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Oconee 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Robinson 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Saint Lucie 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Saint Lucie 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Sequoyah 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Sequoyah 2,68.0,,COASTDOWN TO REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Summer,0.0,1999-04-03,ENTERING REFUELING OUTAGE - PLAN TO DETENTION VESSEL HEAD IN A DAY OR TWO,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Surry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Surry 2,73.0,,COASTDOWN TO REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Turkey Point 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Turkey Point 4,0.0,1999-03-15,EXITING REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Vogtle 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Vogtle 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,2,Watts Bar 1,0.0,1999-02-27,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Braidwood 1,0.0,1999-04-05,FORCED MAINTENANCE OUTAGE DUE TO CATASTROPHIC FAILURE OF A HEATER DRAIN TANK RUPTURE DISC IN A LINE BETWEEN THE HEATER DRAIN TANK AND CONDENSER,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Braidwood 2,92.0,,COASTDOWN TO REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Byron 1,0.0,1999-03-27,REFUELING OUTAGE - DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Byron 2,70.0,,HOLDING POWER AT THIS LEVEL TO REPAIR A LOW PRESSURE HEATER LEAK (ONE STRING OF LOW PRESSURE HEATERS OUT OF SERVICE) - EXPECT REPAIRS TO BE COMPLETED LATE TODAY,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Clinton,0.0,1996-09-06,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,D.C. Cook 1,0.0,1997-09-08,MAINTENANCE OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,D.C. Cook 2,0.0,1997-09-09,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Davis-Besse,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Dresden 2,99.0,,MAXIMUM OPERATING POWER DUE TO TURBINE CONTROL VALVE POSITION,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Dresden 3,99.0,,MAXIMUM OPERATING POWER DUE TO TURBINE CONTROL VALVE POSITION,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Duane Arnold,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Fermi 2,97.0,,POWER LIMITED DUE TO POWER UPRATE ISSUES,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Kewaunee,97.0,,POWER LIMITED DUE TO STEAM GENERATOR TUBE PLUGGING,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,La Salle 1,96.0,,INCREASING POWER AFTER REDUCING TO 65% FOR PERFORMANCE OF POWER SUPPRESSION TESTING TO IDENTIFY A FUEL LEAK,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,La Salle 2,0.0,1996-09-20,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Monticello,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Palisades,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Perry 1,0.0,1999-03-26,REFUELING OUTAGE - FUEL OFFLOAD IN PROGRESS,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Point Beach 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Point Beach 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Prairie Island 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Prairie Island 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Quad Cities 1,99.0,,MAXIMUM OPERATING POWER DUE TO JET PUMP RISER BRACE LIMITATIONS,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,3,Quad Cities 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Arkansas Nuclear 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Arkansas Nuclear 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Callaway,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Columbia Generating Station,85.0,,HOLDING POWER AT THIS LEVEL FOR ECONOMIC DISPATCH UNTIL PERFORMANCE OF A PLANNED FUEL SAVINGS DISPATCH OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Comanche Peak 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Comanche Peak 2,0.0,1999-03-20,REFUELING OUTAGE - DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Cooper,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Diablo Canyon 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Diablo Canyon 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Fort Calhoun,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Grand Gulf 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Palo Verde 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Palo Verde 2,0.0,1999-03-26,REFUELING OUTAGE - DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Palo Verde 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,River Bend 1,0.0,1999-04-03,REFUELING OUTAGE - VESSEL HEAD LIFT COMPLETE - WAITING FOR COMPLETION OF A MODIFICATION PRIOR TO FLOOD-UP,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,San Onofre 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,San Onofre 3,0.0,1999-03-27,REFUELING OUTAGE - FUEL OFFLOAD IN PROGRESS,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,South Texas 1,0.0,1999-03-26,REFUELING OUTAGE - FUEL OFFLOAD IN PROGRESS,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,South Texas 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Waterford 3,100.0,,,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps
+1999-04-06,4,Wolf Creek 1,0.0,1999-04-03,ENTERING REFUELING OUTAGE - MAY DETENTION VESSEL HEAD TOMORROW,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990406ps

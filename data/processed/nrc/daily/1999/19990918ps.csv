@@ -1,0 +1,105 @@
+date,region,unit_name,power_pct,down_raw,reason_comment,change_raw,scrams_raw,source_url
+1999-09-18,1,Beaver Valley 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Beaver Valley 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Calvert Cliffs 1,90.0,,CLEANING WATERBOXES,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Calvert Cliffs 2,100.0,,,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,FitzPatrick,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Ginna,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Hope Creek 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Indian Point 2,0.0,1999-08-31,MAINTENANCE OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Indian Point 3,0.0,1999-09-10,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Limerick 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Limerick 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Millstone 2,0.0,1999-09-17,REACTOR SHUTDOWN DUE TO CEA REPAIR - SEE EVENT # 36191,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Millstone 3,100.0,,,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Nine Mile Point 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Nine Mile Point 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Oyster Creek,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Peach Bottom 2,40.0,,"""B"" RECIRCULATION PUMP IS OUT OF SERVICE AND THE PLANT IS IN SINGLE LOOP OPERATION DUE TO THE 'B"" RECIRCULATION PUMP MG SET OIL COOLER COOLING WATER SUPPLY BEING FOULED UP.",,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Peach Bottom 3,82.0,,COASTDOWN TO REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Pilgrim 1,0.0,1999-09-13,PLANT SUBCRITICAL AND GOING CRITICAL,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Salem 1,0.0,1999-09-17,REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Salem 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Seabrook 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Susquehanna 1,98.0,,,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Susquehanna 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Three Mile Island 1,0.0,1999-09-10,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,1,Vermont Yankee,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Browns Ferry 1,0.0,1985-03-03,DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Browns Ferry 2,0.0,1999-09-17,REACTOR SCRAM FROM 30%. SEE EVENT #36194,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Browns Ferry 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Brunswick 1,0.0,1999-09-15,SHUTDOWN DUE TO HURRICANE FLOYD,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Brunswick 2,0.0,1999-09-15,SHUTDOWN DUE TO HURRICANE FLOYD,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Catawba 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Catawba 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Crystal River 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Farley 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Farley 2,83.0,,COASTDOWN TO REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Harris 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Hatch 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Hatch 2,98.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,McGuire 1,0.0,1999-09-17,REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,McGuire 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,North Anna 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,North Anna 2,0.0,1999-09-11,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Oconee 1,60.0,,REDUCED POWER FOR REPAIR TO FEED PUMP CASING LEAK,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Oconee 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Oconee 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Robinson 2,80.0,,COASTDOWN TO REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Saint Lucie 1,0.0,1999-09-12,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Saint Lucie 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Sequoyah 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Sequoyah 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Summer,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Surry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Surry 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Turkey Point 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Turkey Point 4,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Vogtle 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Vogtle 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,2,Watts Bar 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Braidwood 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Braidwood 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Byron 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Byron 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Clinton,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,D.C. Cook 1,0.0,1997-09-08,REFUELING OUTAGE -  DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,D.C. Cook 2,0.0,1997-09-09,REFUELING OUTAGE - DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Davis-Besse,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Dresden 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Dresden 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Duane Arnold,100.0,,,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Fermi 2,97.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Kewaunee,69.0,,REDUCED POWER DUE TO TURBINE VALVE TEST,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,La Salle 1,90.0,,COASTDOWN TO REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,La Salle 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Monticello,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Palisades,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Perry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Point Beach 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Point Beach 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Prairie Island 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Prairie Island 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Quad Cities 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,3,Quad Cities 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Arkansas Nuclear 1,0.0,1999-09-10,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Arkansas Nuclear 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Callaway,99.0,,COASTDOWN,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Columbia Generating Station,15.0,,COASTDOWN TO REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Comanche Peak 1,97.0,,COASTDOWN,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Comanche Peak 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Cooper,0.0,1999-09-17,REACTOR SCRAM FROM 25% POWER - SEE EVENT # 36195 - PLANT COOLING TO MODE 4,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Diablo Canyon 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Diablo Canyon 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Fort Calhoun,90.0,,COASTDOWN,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Grand Gulf 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Palo Verde 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Palo Verde 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Palo Verde 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,River Bend 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,San Onofre 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,San Onofre 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,South Texas 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,South Texas 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Waterford 3,0.0,1999-09-10,MAINTENANCE OUTAGE - REDUCED INVENTORY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps
+1999-09-18,4,Wolf Creek 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/1999/19990918ps

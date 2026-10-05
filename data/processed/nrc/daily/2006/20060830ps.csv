@@ -1,0 +1,105 @@
+date,region,unit_name,power_pct,down_raw,reason_comment,change_raw,scrams_raw,source_url
+2006-08-30,1,Beaver Valley 1,80.0,,INCREASING POWER,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Beaver Valley 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Calvert Cliffs 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Calvert Cliffs 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,FitzPatrick,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Ginna,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Hope Creek 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Indian Point 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Indian Point 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Limerick 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Limerick 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Millstone 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Millstone 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Nine Mile Point 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Nine Mile Point 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Oyster Creek,100.0,,COASTDOWN TO REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Peach Bottom 2,93.0,,COASTDOWN TO REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Peach Bottom 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Pilgrim 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Salem 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Salem 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Seabrook 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Susquehanna 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Susquehanna 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Three Mile Island 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,1,Vermont Yankee,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Browns Ferry 1,0.0,1985-03-03,DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Browns Ferry 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Browns Ferry 3,0.0,2006-08-29,MANUAL REACTOR SCRAM DUE TO EHC OIL LEAK. SEE EVENT # 42813.,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Brunswick 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Brunswick 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Catawba 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Catawba 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Crystal River 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Farley 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Farley 2,98.0,,HOLDING POWER - WILL REPLACE HEATER DRAIN PUMP MOTOR,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Harris 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Hatch 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Hatch 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,McGuire 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,McGuire 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,North Anna 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,North Anna 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Oconee 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Oconee 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Oconee 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Robinson 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Saint Lucie 1,100.0,,TROPICAL FORCE WINDS EXPECTED ONSITE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Saint Lucie 2,100.0,,TROPICAL FORCE WINDS EXPECTED ONSITE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Sequoyah 1,100.0,,DAY SHIFT - MAY ENTER YELLOW CONDITION FOR SYSTEM LOAD,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Sequoyah 2,100.0,,DAY SHIFT - MAY ENTER YELLOW CONDITION FOR SYSTEM LOAD,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Summer,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Surry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Surry 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Turkey Point 3,70.0,,"HOLDING POWER AT 60% FOR 1) RPI OOS, 2). SECONDARY PLANT ISSUES.  MAX WIND SPEED WAS 45 MPH CURRENTLY LOW 20s.",*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Turkey Point 4,77.0,,INCREASING POWER. MAX WIND SPEED WAS 45 MPH CURRENTLY LOW 20s.,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Vogtle 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Vogtle 2,0.0,2006-08-27,RCP REPAIRS IN PROGRESS,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,2,Watts Bar 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Braidwood 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Braidwood 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Byron 1,98.0,,COASTDOWN TO REFUELING OUTAGE - MAINTENANCE SCHEDULED ON 9/1 FOR 345 KV OFFSITE POWER LINE 0624 - LINE WILL REMAIN ENERGIZED,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Byron 2,100.0,,MAINTENANCE SCHEDULED ON 9/1 FOR 345 KV OFFSITE POWER LINE 0624 - LINE WILL REMAIN ENERGIZED,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Clinton,20.0,,INCREASING POWER TO 97% RTP WHICH IS 100% ELECTRICAL CAPABILITY,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,D.C. Cook 1,82.0,,COASTDOWN TO REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,D.C. Cook 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Davis-Besse,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Dresden 2,99.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Dresden 3,99.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Duane Arnold,96.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Fermi 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Kewaunee,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,La Salle 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,La Salle 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Monticello,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Palisades,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Perry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Point Beach 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Point Beach 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Prairie Island 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Prairie Island 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Quad Cities 1,98.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,3,Quad Cities 2,97.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Arkansas Nuclear 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Arkansas Nuclear 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Callaway,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Columbia Generating Station,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Comanche Peak 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Comanche Peak 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Cooper,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Diablo Canyon 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Diablo Canyon 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Fort Calhoun,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Grand Gulf 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Palo Verde 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Palo Verde 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Palo Verde 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,River Bend 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,San Onofre 2,99.0,,LIMITED DUE TO SG TUBE PLUGGING LIMIT,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,San Onofre 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,South Texas 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,South Texas 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Waterford 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps
+2006-08-30,4,Wolf Creek 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20060830ps

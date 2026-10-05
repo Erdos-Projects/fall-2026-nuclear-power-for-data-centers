@@ -1,0 +1,108 @@
+date,region,unit_name,power_pct,down_raw,reason_comment,change_raw,scrams_raw,source_url
+2007-10-17,1,Beaver Valley 1,0.0,2007-09-23,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Beaver Valley 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Calvert Cliffs 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Calvert Cliffs 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,FitzPatrick,52.0,,INCREASING POWER,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Ginna,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Hope Creek 1,0.0,2007-10-13,"REFUELING OUTAGE
+SWITCHYARD TAGGING IN-PROGRESS",*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Indian Point 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Indian Point 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Limerick 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Limerick 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Millstone 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Millstone 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Nine Mile Point 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Nine Mile Point 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Oyster Creek,100.0,,13.6 KV EXPRESS FEEDER Z-52 OOS,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Peach Bottom 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Peach Bottom 3,37.0,,HOLDING FOR SCRAM TIME TESTING,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Pilgrim 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Salem 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Salem 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Seabrook 1,100.0,,POWER REDUCTION THREAT DUE TO GRID WORK IN NEW ENGLAND UNTIL JANUARY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Susquehanna 1,0.0,2007-10-12,MAINTENANCE OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Susquehanna 2,100.0,,VOLTAGE REGULATOR IN MANUAL,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Three Mile Island 1,90.0,,COASTDOWN TO REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,1,Vermont Yankee,96.0,,ADJUSTING POWER BASED UPON PRIMARY PLANT CHEMISTRY,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Browns Ferry 1,1.0,,"IN SOURCE RANGE APPROACHING CRITICALITY
+1 OF 7 (500 KV) TRANSMISSION LINES OOS FOR PLANNED MAINTENANCE TODAY",*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Browns Ferry 2,100.0,,1 OF 7 (500 KV) TRANSMISSION LINES OOS FOR PLANNED MAINTENANCE TODAY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Browns Ferry 3,100.0,,1 OF 7 (500 KV) TRANSMISSION LINES OOS FOR PLANNED MAINTENANCE TODAY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Brunswick 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Brunswick 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Catawba 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Catawba 2,0.0,2007-09-14,DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Crystal River 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Farley 1,0.0,2007-09-28,DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Farley 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Harris 1,0.0,2007-09-28,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Hatch 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Hatch 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,McGuire 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,McGuire 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,North Anna 1,85.0,,INCREASING POWER,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,North Anna 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Oconee 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Oconee 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Oconee 3,97.0,,COASTDOWN TO REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Robinson 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Saint Lucie 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Saint Lucie 2,0.0,2007-09-30,DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Sequoyah 1,0.0,2007-10-03,"DEFUELED
+YELLOW GRID RISK",,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Sequoyah 2,100.0,,YELLOW GRID RISK,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Summer,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Surry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Surry 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Turkey Point 3,28.0,,HOLDING - PENDING VERIFICATION OF 30% FLUX MAP,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Turkey Point 4,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Vogtle 1,98.0,,100% ELECTRICAL CAPABILITY,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Vogtle 2,98.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,2,Watts Bar 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Braidwood 1,0.0,2007-10-01,REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Braidwood 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Byron 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Byron 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Clinton,97.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,D.C. Cook 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,D.C. Cook 2,0.0,2007-09-14,DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Davis-Besse,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Dresden 2,98.0,,100% ELECTRICAL CAPABILITY,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Dresden 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Duane Arnold,98.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Fermi 2,0.0,2007-09-29,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Kewaunee,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,La Salle 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,La Salle 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Monticello,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Palisades,0.0,2007-09-09,REPAIRING LEAKING RCP SEAL,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Perry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Point Beach 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Point Beach 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Prairie Island 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Prairie Island 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Quad Cities 1,97.0,,100% ELECTRICAL CAPABILITY,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,3,Quad Cities 2,96.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Arkansas Nuclear 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Arkansas Nuclear 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Callaway,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Columbia Generating Station,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Comanche Peak 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Comanche Peak 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Cooper,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Diablo Canyon 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Diablo Canyon 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Fort Calhoun,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Grand Gulf 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Palo Verde 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Palo Verde 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Palo Verde 3,0.0,2007-09-29,DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,River Bend 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,San Onofre 2,99.0,,STEAM GENERATOR LIMITATIONS,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,San Onofre 3,0.0,2007-10-09,MIDCYCLE MAINTENANCE OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,South Texas 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,South Texas 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Waterford 3,0.0,2007-10-08,MIDCYCLE OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
+2007-10-17,4,Wolf Creek 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2007/20071017ps
