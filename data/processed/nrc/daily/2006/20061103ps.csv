@@ -1,0 +1,105 @@
+date,region,unit_name,power_pct,down_raw,reason_comment,change_raw,scrams_raw,source_url
+2006-11-03,1,Beaver Valley 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Beaver Valley 2,0.0,2006-10-01,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Calvert Cliffs 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Calvert Cliffs 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,FitzPatrick,0.0,2006-10-08,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Ginna,6.0,,HOLDING FOR GENERATOR OUTPUT BREAKER CHECKS,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Hope Creek 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Indian Point 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Indian Point 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Limerick 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Limerick 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Millstone 2,0.0,2006-10-06,REFUELING,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Millstone 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Nine Mile Point 1,99.0,,,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Nine Mile Point 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Oyster Creek,0.0,2006-10-15,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Peach Bottom 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Peach Bottom 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Pilgrim 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Salem 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Salem 2,82.0,,INCREASING POWER,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Seabrook 1,0.0,2006-09-30,START-UP IN PROGRESS,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Susquehanna 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Susquehanna 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Three Mile Island 1,0.0,2006-11-02,TRIP - SEE EN #42957,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,1,Vermont Yankee,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Browns Ferry 1,0.0,1985-03-03,DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Browns Ferry 2,100.0,,500 KV OFFSITE LINE TO GO OOS. 1 OF 7 OFFSITE LINES.,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Browns Ferry 3,100.0,,500 KV OFFSITE LINE TO GO OOS. 1 OF 7 OFFSITE LINES.,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Brunswick 1,81.0,,BEGAN A S/D BUT NOW HOLDING - SEE EN #42960.,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Brunswick 2,0.0,2006-11-01,REACTOR SCRAM - SEE EN# 42955,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Catawba 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Catawba 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Crystal River 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Farley 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Farley 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Harris 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Hatch 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Hatch 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,McGuire 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,McGuire 2,0.0,2006-09-16,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,North Anna 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,North Anna 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Oconee 1,0.0,2006-10-06,REFUELING OUTAGE - DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Oconee 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Oconee 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Robinson 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Saint Lucie 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Saint Lucie 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Sequoyah 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Sequoyah 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Summer,0.0,2006-10-13,DEFUELED,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Surry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Surry 2,0.0,2006-10-07,CORE ON-LOAD IN PROGRESS,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Turkey Point 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Turkey Point 4,0.0,2006-10-30,REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Vogtle 1,100.0,,,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Vogtle 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,2,Watts Bar 1,0.0,2006-09-10,DEFUELED - REPLACING ALL 4 STEAM GENERATORS,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Braidwood 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Braidwood 2,48.0,,INCREASING POWER,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Byron 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Byron 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Clinton,96.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,D.C. Cook 1,0.0,2006-09-15,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,D.C. Cook 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Davis-Besse,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Dresden 2,88.0,,UNPLANNED DOWNPOWER DUE TO SECONDARY SIDE FEEDWATER HEATER TRIP,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Dresden 3,99.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Duane Arnold,98.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Fermi 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Kewaunee,98.0,,INCREASING POWER,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,La Salle 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,La Salle 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Monticello,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Palisades,0.0,2006-11-01,T/S SHUTDOWN - SEE EN #42954,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Perry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Point Beach 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Point Beach 2,0.0,2006-10-15,RELOAD IN PROGRESS,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Prairie Island 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Prairie Island 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Quad Cities 1,97.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,3,Quad Cities 2,96.0,,100% ELECTRICAL CAPABILITY,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Arkansas Nuclear 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Arkansas Nuclear 2,95.0,,INCREASING POWER,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Callaway,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Columbia Generating Station,0.0,2006-10-31,REACTOR TRIP - SEE EN# 42950,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Comanche Peak 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Comanche Peak 2,100.0,,,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Cooper,0.0,2006-10-20,REFUELING OUTAGE.  PLANNED WORK ON 1 OF 5 345KV OFFSITE LINES TODAY.,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Diablo Canyon 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Diablo Canyon 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Fort Calhoun,0.0,2006-09-09,REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Grand Gulf 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Palo Verde 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Palo Verde 2,0.0,2006-09-29,REDUCED INVENTORY MID LOOP OPERATION,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Palo Verde 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,River Bend 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,San Onofre 2,99.0,,STEAM GENERATOR TUBE PLUGGING LIMITATION,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,San Onofre 3,0.0,2006-10-16,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,South Texas 1,0.0,2006-09-30,START-UP IN PROGRESS,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,South Texas 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Waterford 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps
+2006-11-03,4,Wolf Creek 1,0.0,2006-10-06,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2006/20061103ps

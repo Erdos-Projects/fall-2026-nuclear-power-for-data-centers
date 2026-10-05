@@ -1,0 +1,25 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local virtual environments
+.venv/
+venv/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+data/raw/*
+!data/raw/.gitkeep
+outputs/

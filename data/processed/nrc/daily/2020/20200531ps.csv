@@ -1,0 +1,100 @@
+date,region,unit_name,power_pct,down_raw,reason_comment,change_raw,scrams_raw,source_url
+2020-05-31,1,Beaver Valley 1,100.0,,High System Voltage Action,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Beaver Valley 2,100.0,,High System Voltage Action,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Calvert Cliffs 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Calvert Cliffs 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,FitzPatrick,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Ginna,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Hope Creek 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Indian Point 2,0.0,2020-04-30,Reactor defueled for permanent shutdown,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Indian Point 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Limerick 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Limerick 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Millstone 2,0.0,2020-04-23,Refueling Outage,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Millstone 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Nine Mile Point 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Nine Mile Point 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Peach Bottom 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Peach Bottom 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Salem 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Salem 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Seabrook 1,0.0,2020-05-28,See event #54731,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Susquehanna 1,98.0,,"Minimum of 100 MVar output
+Total MW Net output limit due to transmission limits",*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Susquehanna 2,99.0,,"Minimum of 100 MVar output
+Total MW Net output limit due to transmission limits",*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,1,Three Mile Island 1,0.0,2019-09-20,Reactor defueled for permanent shutdown,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Browns Ferry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Browns Ferry 2,87.0,,Reduced power to troubleshoot condenser issue,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Browns Ferry 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Brunswick 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Brunswick 2,88.0,,Increasing Power,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Catawba 1,0.0,2020-05-01,Refueling Outage,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Catawba 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Farley 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Farley 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Harris 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Hatch 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Hatch 2,83.0,,Reducing Power to 70% For Planned Maintenance,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,McGuire 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,McGuire 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,North Anna 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,North Anna 2,99.0,,100% Electrical Capability,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Oconee 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Oconee 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Oconee 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Robinson 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Saint Lucie 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Saint Lucie 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Sequoyah 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Sequoyah 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Summer,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Surry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Surry 2,0.0,2020-05-02,Refueling Outage,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Turkey Point 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Turkey Point 4,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Vogtle 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Vogtle 2,100.0,,,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Watts Bar 1,0.0,2020-05-08,Refueling Outage,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,2,Watts Bar 2,0.0,2020-05-15,Forced Outage,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Braidwood 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Braidwood 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Byron 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Byron 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Clinton,75.0,,Reduced Power For Rod Pattern Adjustment,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,D.C. Cook 1,100.0,,High System Voltage Action,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,D.C. Cook 2,100.0,,High System Voltage Action,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Davis-Besse,100.0,,High System Voltage Action,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Dresden 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Dresden 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Duane Arnold,70.0,,Reduced power for tech spec limit for dry well air temp,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Fermi 2,0.0,2020-03-21,Refueling Outage,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,LaSalle 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,LaSalle 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Monticello,100.0,,Grid is orange due to relocation of normal dispatch control center.,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Palisades,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Perry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Point Beach 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Point Beach 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Prairie Island 1,100.0,,Grid is orange due to relocation of dispatch control center.,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Prairie Island 2,100.0,,Grid is orange due to relocation of dispatch control center.,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Quad Cities 1,80.0,,Reduced Power For Rod Pattern Adjustment,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,3,Quad Cities 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Arkansas Nuclear 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Arkansas Nuclear 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Callaway,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Columbia Generating Station,67.0,,Dispatch Directed,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Comanche Peak 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Comanche Peak 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Cooper,100.0,,,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Diablo Canyon 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Diablo Canyon 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Grand Gulf 1,3.0,,Increasing Power,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Palo Verde 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Palo Verde 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Palo Verde 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,River Bend Station 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,South Texas 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,South Texas 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Waterford 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps
+2020-05-31,4,Wolf Creek 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2020/20200531ps

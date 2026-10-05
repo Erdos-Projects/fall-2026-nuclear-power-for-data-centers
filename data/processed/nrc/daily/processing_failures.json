@@ -1,0 +1,10 @@
+[
+  {
+    "input_file": "/home/prathamesh/Project/Erods_DS_bootcamp/nuclear-reliability/data/raw/nrc/daily/2006/20060622ps.html",
+    "error": "Duplicate reactor-date records"
+  },
+  {
+    "input_file": "/home/prathamesh/Project/Erods_DS_bootcamp/nuclear-reliability/data/raw/nrc/daily/2013/20130719ps.html",
+    "error": "Duplicate reactor-date records"
+  }
+]

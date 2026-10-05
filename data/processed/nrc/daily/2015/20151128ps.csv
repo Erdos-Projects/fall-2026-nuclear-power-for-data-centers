@@ -1,0 +1,110 @@
+date,region,unit_name,power_pct,down_raw,reason_comment,change_raw,scrams_raw,source_url
+2015-11-28,1,Beaver Valley 1,100.0,,MINIMUM GENERATION ALERT,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Beaver Valley 2,100.0,,MINIMUM GENERATION ALERT,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Calvert Cliffs 1,100.0,,"HIGH SYSTEM VOLTAGE ACTION
+MINIMUM GENERATION ALERT",*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Calvert Cliffs 2,100.0,,"HIGH SYSTEM VOLTAGE ACTION
+MINIMUM GENERATION ALERT",*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,FitzPatrick,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Ginna,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Hope Creek 1,100.0,,"HIGH SYSTEM VOLTAGE ACTION
+MINIMUM GENERATION ALERT",,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Indian Point 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Indian Point 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Limerick 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Limerick 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Millstone 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Millstone 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Nine Mile Point 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Nine Mile Point 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Oyster Creek,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Peach Bottom 2,100.0,,MAINTAIN < 100 MVARS DUE TO VIBRATION ISSUE ON UNIT 2 MAIN GENERATOR,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Peach Bottom 3,96.0,,HOLDING POWER FOR EPU TESTING,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Pilgrim 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Salem 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Salem 2,1.0,,HOLDING POWER FOR TESTING,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Seabrook 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Susquehanna 1,100.0,,"HIGH SYSTEM VOLTAGE ACTION
+MINIMUM GENERATION ALERT",,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Susquehanna 2,100.0,,"HIGH SYSTEM VOLTAGE ACTION
+MINIMUM GENERATION ALERT",,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,1,Three Mile Island 1,100.0,,MINIMUM GENERATION ALERT,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Browns Ferry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Browns Ferry 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Browns Ferry 3,90.0,,"INCREASING POWER AFTER FINAL FEEDWATER TEMPERATURE REDUCTION.
+COASTDOWN TO REFUELING OUTAGE",*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Brunswick 1,98.0,,COASTING DOWN TO PERFORM ROD IMPROVEMENT OVER THE WEEKEND,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Brunswick 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Catawba 1,0.0,2015-11-20,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Catawba 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Farley 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Farley 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Harris 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Hatch 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Hatch 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,McGuire 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,McGuire 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,North Anna 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,North Anna 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Oconee 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Oconee 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Oconee 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Robinson 2,0.0,2015-11-17,EXITING FORCED MAINTENANCE OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Saint Lucie 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Saint Lucie 2,92.0,,REDUCED POWER FOR WATERBOX REPAIR,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Sequoyah 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Sequoyah 2,0.0,2015-11-13,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Summer,0.0,2015-10-02,EXITING REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Surry 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Surry 2,0.0,2015-10-18,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Turkey Point 3,0.0,2015-10-18,EXITING REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Turkey Point 4,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Vogtle 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Vogtle 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Watts Bar 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,2,Watts Bar 2,0.0,,OPERATING LICENSE ISSUED 10/22/15 - AWAITING INITIAL CORE LOAD,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Braidwood 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Braidwood 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Byron 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Byron 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Clinton,99.0,,100% ELECTRICAL GENERATION,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,D.C. Cook 1,100.0,,"HIGH SYSTEM VOLTAGE ACTION
+MINIMUM GENERATION ALERT",,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,D.C. Cook 2,100.0,,"HIGH SYSTEM VOLTAGE ACTION
+MINIMUM GENERATION ALERT",,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Davis-Besse,100.0,,"HIGH SYSTEM VOLTAGE ACTION
+MINIMUM GENERATION ALERT",*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Dresden 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Dresden 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Duane Arnold,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Fermi 2,20.0,,INCREASING POWER,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,La Salle 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,La Salle 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Monticello,0.0,2015-11-23,SEE EN #51560,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Palisades,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Perry 1,100.0,,MINIMUM GENERATION ALERT,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Point Beach 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Point Beach 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Prairie Island 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Prairie Island 2,0.0,2015-10-16,REFUELING OUTAGE,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Quad Cities 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,3,Quad Cities 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Arkansas Nuclear 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Arkansas Nuclear 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Callaway,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Columbia Generating Station,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Comanche Peak 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Comanche Peak 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Cooper,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Diablo Canyon 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Diablo Canyon 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Fort Calhoun,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Grand Gulf 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Palo Verde 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Palo Verde 2,90.0,,REDUCE POWER FOR HEATER DRAIN LEVEL CONTROL REPAIR,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Palo Verde 3,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,River Bend 1,0.0,2015-11-27,AUTOMATIC SCRAM-SEE EN #51568,*,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,South Texas 1,0.0,2015-10-17,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,South Texas 2,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Waterford 3,0.0,2015-10-25,REFUELING OUTAGE,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
+2015-11-28,4,Wolf Creek 1,100.0,,,,,https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/2015/20151128ps
