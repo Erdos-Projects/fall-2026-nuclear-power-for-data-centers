@@ -9,4 +9,4 @@ This project uses 25+ years of US Nuclear Regulatory Commission (NRC) data to me
 
 We study the **94 currently operating US commercial reactors**, grouped into the NRC's four regions.
 
-![Operating US nuclear reactors by NRC region](reports/figures/reactors_by_region.png)
+![Operating US nuclear reactors by NRC region](reports/reactors_by_region.png)
