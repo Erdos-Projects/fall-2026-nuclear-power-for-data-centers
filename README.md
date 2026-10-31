@@ -36,4 +36,19 @@ That pattern is regular, but it is not exactly periodic, which is what makes for
 
 ![Quarterly average power for the Region 1 reactors, 2000–2025](reports/quarterly_power_4reactors.png)
 
+## Models
+
+We train on **2000–2022** and test on **2023–2025** (12 quarters, 92 reactors). Vogtle 3 and 4 are left out because they started operating too recently, and Watts Bar 2's commissioning period (before October 2016) is removed.
+
+All models forecast **one quarter ahead, walk-forward**: each test quarter is forecast using only data up to the end of the previous quarter.
+
+Each model's settings are chosen on the training period only, but in a different way:
+
+| Model | What is tuned | How |
+|---|---|---|
+| Seasonal naive | Nothing | — |
+| Seasonal average | Number of past cycles averaged, *k* (one value for all reactors) | Walk-forward one-quarter forecasts over 2009–2019 for *k* = 2–5; *k* = 3 has the lowest MAE |
+| Holt-Winters | α and γ, per reactor | Grid search over 0.1–0.9. At six cutoffs from 2009 to 2020, fit on the last 4 cycles before the cutoff and score the forecast of the next full cycle |
+| SARIMA | Model orders, per reactor | `auto_arima` (lowest AIC) on the last 4 cycles before 2023; no cross-validation |
+| XGBoost | `max_depth`, `learning_rate`; `n_estimators` by early stopping | Expanding window: at cutoffs 2015, 2017, 2019 and 2021, train on all quarters before the cutoff and validate on the quarters from the cutoff to the end of 2022 |
 
