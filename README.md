@@ -24,3 +24,16 @@ We clean this data in `notebooks/DataCleaningAndPreProcessing.ipynb`. That step 
 
 **Finding:** Unplanned outages happen most often (44% of all outages), but they tend to be short. Refueling outages are fewer and much longer: they account for about **81% of zero-power days**, while unplanned outages account for only about 13%.
 
+## What the data looks like
+
+Most reactors run close to 100% most of the time, with sharp drops roughly every 18 or 24 months for refueling. There is no long-term trend; the dominant pattern is each reactor's **refueling cycle**.
+
+That pattern is regular, but it is not exactly periodic, which is what makes forecasting hard:
+
+- **Cycle lengths drift.** Refueling dates move from cycle to cycle, so an outage expected in one quarter can fall in the next.
+- **Outage lengths vary.** Some refuelings take a few weeks; others run much longer when maintenance or repairs are added.
+- **Unplanned outages are random.** They are the most common type of outage and come with no warning in the reactor's history.
+
+![Quarterly average power for the Region 1 reactors, 2000–2025](figures/quarterly_power_region1.png)
+
+
