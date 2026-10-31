@@ -52,3 +52,14 @@ Each model's settings are chosen on the training period only, but in a different
 | SARIMA | Model orders, per reactor | `auto_arima` (lowest AIC) on the last 4 cycles before 2023 |
 | XGBoost | `max_depth`, `learning_rate`; `n_estimators` by early stopping | Expanding window: at cutoffs 2015, 2017, 2019 and 2021, train on all quarters before the cutoff and validate on the quarters from the cutoff to the end of 2022 |
 
+## Results
+
+Each model's MAE is computed per reactor over the 12 test quarters (2023–2025). The table summarizes those per-reactor errors across the 92 reactors, in percentage points of full power (lower is better):
+
+| Model | Mean | 25th pct | Median | 75th pct | 90th pct | Max |
+|---|---|---|---|---|---|---|
+| Seasonal naive | 6.15 | 2.53 | 4.33 | 6.97 | 11.55 | 32.87 |
+| Seasonal average (*k* = 3) | 5.59 | 2.40 | 3.94 | 6.18 | 11.10 | 31.97 |
+| Holt-Winters | 6.22 | 2.84 | 4.64 | 7.02 | 12.67 | 30.97 |
+| SARIMA | 6.62 | 2.55 | 3.99 | 7.61 | 15.47 | 32.79 |
+| **XGBoost** | **4.31** | **2.03** | **2.96** | **4.51** | **8.02** | **30.33** |
