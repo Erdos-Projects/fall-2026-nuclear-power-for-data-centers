@@ -34,6 +34,6 @@ That pattern is regular, but it is not exactly periodic, which is what makes for
 - **Outage lengths vary.** Some refuelings take a few weeks; others run much longer when maintenance or repairs are added.
 - **Unplanned outages are random.** They are the most common type of outage and come with no warning in the reactor's history.
 
-![Quarterly average power for the Region 1 reactors, 2000–2025](figures/quarterly_power_4reactors.png)
+![Quarterly average power for the Region 1 reactors, 2000–2025](reports/quarterly_power_4reactors.png)
 
 
