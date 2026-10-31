@@ -47,7 +47,7 @@ Each model's settings are chosen on the training period only, but in a different
 | Model | What is tuned | How |
 |---|---|---|
 | Seasonal naive | Nothing | — |
-| Seasonal average | Number of past cycles averaged, *k* (one value for all reactors) | Walk-forward one-quarter forecasts over 2009–2019 for *k* = 2–5; *k* = 3 has the lowest MAE |
+| Seasonal average | Number of past cycles averaged, *k* (one value for all reactors) | Walk-forward one-quarter forecasts over 2009–2019 for *k* = 2–5; *k* = 3 has the lowest Mean Absolute Error (MAE) |
 | Holt-Winters | $\alpha$ and $\gamma$, per reactor | Grid search over 0.1–0.9. At six cutoffs from 2009 to 2020, fit on the last 4 cycles before the cutoff and score the forecast of the next full cycle |
 | SARIMA | Model orders, per reactor | `auto_arima` (lowest AIC) on the last 4 cycles before 2023 |
 | XGBoost | `max_depth`, `learning_rate`; `n_estimators` by early stopping | Expanding window: at cutoffs 2015, 2017, 2019 and 2021, train on all quarters before the cutoff and validate on the quarters from the cutoff to the end of 2022 |
