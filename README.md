@@ -63,3 +63,5 @@ Each model's MAE is computed per reactor over the 12 test quarters (2023–2025)
 | Holt-Winters | 6.22 | 2.84 | 4.64 | 7.02 | 12.67 | 30.97 |
 | SARIMA | 6.62 | 2.55 | 3.99 | 7.61 | 15.47 | 32.79 |
 | **XGBoost** | **4.31** | **2.03** | **2.96** | **4.51** | **8.02** | **30.33** |
+
+![Test MAE by Region](reports/mae_by_region.png)
