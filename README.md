@@ -65,3 +65,8 @@ Each model's MAE is computed per reactor over the 12 test quarters (2023–2025)
 | **XGBoost** | **4.31** | **2.03** | **2.96** | **4.51** | **8.02** | **30.33** |
 
 ![Test MAE by Region](reports/mae_by_region.png)
+
+- **Among the univariate models, the seasonal average does best.** It has the lowest mean and the lowest error at every percentile.
+- **XGBoost is the best model overall.** All models now forecast one quarter ahead over the same test quarters, so the comparison is direct. XGBoost cuts the mean error from 5.59 (seasonal average) to 4.31, about 23%, and the median from 3.94 to 2.96.
+- **Errors are concentrated in a few reactors.** For every model the mean is well above the median, and the worst reactors have errors around 30. XGBoost's largest errors are for Sequoyah 2 (Region 2, 30.3), Waterford 3 (Region 4, 19.9) and Prairie Island 1 (Region 3, 19.0). No model anticipates refueling outages that run much longer than usual, changes in cycle length, or unplanned outages.
+
