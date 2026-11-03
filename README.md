@@ -72,4 +72,5 @@ Each model's MAE is computed per reactor over the 12 test quarters (2023–2025)
 
 ## Repo Structure
 | Code | What it Does|
+|---|---|
 |`src/ReactorMap.py`| Produces a map of the US Nuclear Reactors|
