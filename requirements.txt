@@ -1,3 +1,4 @@
+re
 requests
 beautifulsoup4
 pandas
@@ -8,3 +9,4 @@ scikit-learn
 jupyterlab
 openpyxl
 pytest
+xgboost
