@@ -71,6 +71,10 @@ Each model's MAE is computed per reactor over the 12 test quarters (2023–2025)
 - **Errors are concentrated in a few reactors.** For every model the mean is well above the median, and the worst reactors have errors around 30. XGBoost's largest errors are for Sequoyah 2 (Region 2, 30.3), Waterford 3 (Region 4, 19.9) and Prairie Island 1 (Region 3, 19.0). No model anticipates refueling outages that run much longer than usual, changes in cycle length, or unplanned outages.
 
 ## Repo Structure
-| Code | What it Does|
+
+| Code | What it Does |
 |---|---|
-|`src/ReactorMap.py`| Produces a map of the US Nuclear Reactors|
+| `src/ReactorMap.py` | Generates a map of operating nuclear reactors across the United States. |
+| `src/DataCleaningAndPreProcessing.py` | Cleans and preprocesses daily operational data for all 94 operating U.S. nuclear reactors using NRC daily reports. |
+| `src/PreliminaryForecasts.py` | Performs forecasting using four models: Seasonal Naive, Seasonal Average, Holt-Winters, and SARIMA. |
+| `src/AdvancedForecasts.py` | Performs forecasting using XGBoost. |
