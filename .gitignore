@@ -20,6 +20,4 @@ venv/
 Thumbs.db
 
 # Generated outputs
-data/raw/*
-!data/raw/.gitkeep
 outputs/

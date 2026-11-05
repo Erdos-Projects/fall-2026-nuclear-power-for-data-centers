@@ -1,0 +1,95 @@
+code,name,Region,State
+ano1,Arkansas Nuclear One 1,Region IV,Arkansas
+ano2,Arkansas Nuclear One 2,Region IV,Arkansas
+bv1,Beaver Valley 1,Region I,Pennsylvania
+bv2,Beaver Valley 2,Region I,Pennsylvania
+brai1,Braidwood 1,Region III,Illinois
+brai2,Braidwood 2,Region III,Illinois
+bf1,Browns Ferry 1,Region II,Alabama
+bf2,Browns Ferry 2,Region II,Alabama
+bf3,Browns Ferry 3,Region II,Alabama
+bru1,Brunswick 1,Region II,North Carolina
+bru2,Brunswick 2,Region II,North Carolina
+byro1,Byron 1,Region III,Illinois
+byro2,Byron 2,Region III,Illinois
+call,Callaway,Region IV,Missouri
+calv1,Calvert Cliffs 1,Region I,Maryland
+calv2,Calvert Cliffs 2,Region I,Maryland
+cat1,Catawba 1,Region II,South Carolina
+cat2,Catawba 2,Region II,South Carolina
+clin,Clinton,Region III,Illinois
+wash2,Columbia Generating Station,Region IV,Washington
+cp1,Comanche Peak 1,Region IV,Texas
+cp2,Comanche Peak 2,Region IV,Texas
+cns,Cooper,Region IV,Nebraska
+cook1,D.C. Cook 1,Region III,Michigan
+cook2,D.C. Cook 2,Region III,Michigan
+davi,Davis-Besse,Region III,Ohio
+diab1,Diablo Canyon 1,Region IV,California
+diab2,Diablo Canyon 2,Region IV,California
+dres2,Dresden 2,Region III,Illinois
+dres3,Dresden 3,Region III,Illinois
+far1,Farley 1,Region II,Alabama
+far2,Farley 2,Region II,Alabama
+ferm2,Fermi 2,Region III,Michigan
+fitz,FitzPatrick,Region I,New York
+ginn,Ginna,Region I,New York
+gg1,Grand Gulf 1,Region IV,Mississippi
+har1,Harris 1,Region II,North Carolina
+hat1,Hatch 1,Region II,Georgia
+hat2,Hatch 2,Region II,Georgia
+hope,Hope Creek 1,Region I,New Jersey
+lasa1,La Salle 1,Region III,Illinois
+lasa2,La Salle 2,Region III,Illinois
+lim1,Limerick 1,Region I,Pennsylvania
+lim2,Limerick 2,Region I,Pennsylvania
+mcg1,McGuire 1,Region II,North Carolina
+mcg2,McGuire 2,Region II,North Carolina
+mill2,Millstone 2,Region I,Connecticut
+mill3,Millstone 3,Region I,Connecticut
+mont,Monticello,Region III,Minnesota
+nmp1,Nine Mile Point 1,Region I,New York
+nmp2,Nine Mile Point 2,Region I,New York
+na1,North Anna 1,Region II,Virginia
+na2,North Anna 2,Region II,Virginia
+oco1,Oconee 1,Region II,South Carolina
+oco2,Oconee 2,Region II,South Carolina
+oco3,Oconee 3,Region II,South Carolina
+palo1,Palo Verde 1,Region IV,Arizona
+palo2,Palo Verde 2,Region IV,Arizona
+palo3,Palo Verde 3,Region IV,Arizona
+pb2,Peach Bottom 2,Region I,Pennsylvania
+pb3,Peach Bottom 3,Region I,Pennsylvania
+perr1,Perry 1,Region III,Ohio
+poin1,Point Beach 1,Region III,Wisconsin
+poin2,Point Beach 2,Region III,Wisconsin
+prai1,Prairie Island 1,Region III,Minnesota
+prai2,Prairie Island 2,Region III,Minnesota
+quad1,Quad Cities 1,Region III,Illinois
+quad2,Quad Cities 2,Region III,Illinois
+rbs1,River Bend 1,Region IV,Louisiana
+rob2,Robinson 2,Region II,South Carolina
+stl1,Saint Lucie 1,Region II,Florida
+stl2,Saint Lucie 2,Region II,Florida
+salm1,Salem 1,Region I,New Jersey
+salm2,Salem 2,Region I,New Jersey
+seab1,Seabrook 1,Region I,New Hampshire
+seq1,Sequoyah 1,Region II,Tennessee
+seq2,Sequoyah 2,Region II,Tennessee
+stp1,South Texas 1,Region IV,Texas
+stp2,South Texas 2,Region IV,Texas
+sur1,Surry 1,Region II,Virginia
+sur2,Surry 2,Region II,Virginia
+susq1,Susquehanna 1,Region I,Pennsylvania
+susq2,Susquehanna 2,Region I,Pennsylvania
+tp3,Turkey Point 3,Region II,Florida
+tp4,Turkey Point 4,Region II,Florida
+sum,V.C. Summer,Region II,South Carolina
+vog1,Vogtle 1,Region II,Georgia
+vog2,Vogtle 2,Region II,Georgia
+vogtle-electric-generating-plant-unit-3,Vogtle 3,Region II,Georgia
+vog4,Vogtle 4,Region II,Georgia
+wat3,Waterford 3,Region IV,Louisiana
+wb1,Watts Bar 1,Region II,Tennessee
+wb2,Watts Bar 2,Region II,Tennessee
+wc,Wolf Creek 1,Region IV,Kansas
