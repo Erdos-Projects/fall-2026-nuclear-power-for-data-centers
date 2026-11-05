@@ -15,7 +15,7 @@ We study the **94 currently operating US commercial reactors**, grouped into the
 
 ## Why this matters
 
-Over 2016–2025, average output ranged from 74.8% to 95.9% of full power. Using only public data, this project gives a data center buyer a consistent forecast of each reactor's output for the next quarter. The [report](reports/Nuclear_Reliability_Report.pdf) includes a worked dollar example for Watts Bar 2.
+Over 2016–2025, average output ranged from 74.8% to 95.9% of full power. Using only public data, this project gives a data center buyer a consistent forecast of each reactor's output for the next quarter. The [report](reports/Nuclear_Reliability_Project_Report.pdf) includes a worked dollar example for Watts Bar 2.
 
 ## Data
 
