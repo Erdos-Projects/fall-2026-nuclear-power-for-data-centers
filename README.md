@@ -1,5 +1,4 @@
-# fall-2026-nuclear-power-for-data-centers
-Team project: fall-2026-nuclear-power-for-data-centers
+# Nuclear Reliability: Forecasting Reactor Output for Data Centers
 
 Data centers need large amounts of power around the clock, and unlike gas, nuclear can supply it steadily without carbon emissions. Reactors still go offline, though, for scheduled refueling, maintenance and unexpected faults. When they do, the missing output has to come from somewhere else.
 
