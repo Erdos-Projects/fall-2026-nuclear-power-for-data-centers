@@ -28,7 +28,7 @@ TRAINING_PERIOD = pd.Timestamp("2023-01-01")
 
 METHODS = ["seasonal_naive", "seasonal_average", "holt_winter", "SARIMA"]
 
-def load_quarterly_data():
+def load_daily_data():
 
     # load the data. We need to pass on the parse_dates option so that we can perform operations on the date column
     # By default the date column will be treated as a string (because of the dashes)
@@ -40,6 +40,59 @@ def load_quarterly_data():
         all_years.append(df)
 
     df = pd.concat(all_years, ignore_index=True)
+
+    return df
+
+def plot_reliability(df):
+
+    # Average daily power of each reactor over the last ten years (2016-2025),
+    # so that old problems do not count against plants as they run today.
+    # This average includes every day: refueling outages, other outages, and days at reduced power.
+    recent_df = df[ df["date"] >= "2016-01-01" ]
+
+    # We drop Watts Bar 2's commissioning period (before October 2016), since it is not normal operation
+    commissioning = (recent_df["Unit"] == "Watts Bar 2") & (recent_df["date"] < "2016-10-01")
+    recent_df = recent_df[ ~commissioning ]
+
+    # Vogtle 3 and 4 started too recently to have a ten-year record
+    reliability = recent_df.groupby("Unit")["Power"].mean().drop(["Vogtle 3", "Vogtle 4"])
+
+    # Sort from least to most reliable. reset_index moves Unit back into a regular column.
+    reliability = reliability.sort_values().reset_index()
+
+    median_power = reliability["Power"].median()
+    n_reactors = len(reliability)
+
+    fig, ax = plt.subplots(figsize=(11, 4.3))
+
+    ax.scatter(range(n_reactors), reliability["Power"], s=16, color="tab:blue")
+
+    # Dashed line at the median reactor
+    ax.axhline(median_power, color="gray", linestyle="--", linewidth=1)
+    ax.text(0, median_power + 0.4, f"Median {median_power:.1f}%", color="gray")
+
+    # Label the three least reliable reactors
+    for i in range(3):
+        unit, power = reliability.loc[i, "Unit"], reliability.loc[i, "Power"]
+        ax.annotate(f"{unit} ({power:.1f}%)", xy=(i, power), xytext=(i + 4, power - 0.2), va="center", fontsize=9, arrowprops=dict(arrowstyle="-", linewidth=0.5))
+
+    # Label the most reliable reactor
+    unit, power = reliability.loc[n_reactors - 1, "Unit"], reliability.loc[n_reactors - 1, "Power"]
+    ax.annotate(f"{unit} ({power:.1f}%)", xy=(n_reactors - 1, power), xytext=(n_reactors - 22, power + 1.3), fontsize=9, arrowprops=dict(arrowstyle="-", linewidth=0.5))
+
+    ax.set_title("Average output by reactor")
+    ax.set_xlabel(f"{n_reactors} reactors, sorted from least to most reliable")
+    ax.set_ylabel("Average power, 2016-2025 (% of full)")
+    ax.set_xticks([])
+    ax.spines[["top", "right"]].set_visible(False)
+    ax.grid(axis="y", alpha=0.3)
+
+    plt.tight_layout()
+    plt.show()
+
+    return reliability
+
+def load_quarterly_data(df):
 
     # Using the dates Column to define a quarter period
     df["quarter_period"] = df["date"].dt.to_period("Q")
@@ -545,7 +598,10 @@ def summarize(all_scores):
 
 def main():
 
-    quarter_df = load_quarterly_data()
+    df = load_daily_data()
+    plot_reliability(df)
+
+    quarter_df = load_quarterly_data(df)
     plot_quarterly_power(quarter_df, "Region 1")
 
     refueling_df = load_refueling()
