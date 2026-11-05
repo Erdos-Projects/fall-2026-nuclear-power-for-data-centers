@@ -14,11 +14,12 @@ from sklearn.metrics import mean_absolute_error as mae
 
 from tqdm.auto import tqdm
 
-# Change DATA_DIR to wherever the reactor_data folder is on your computer
-DATA_DIR = Path("/Users/vassu/Desktop/Erdos_DataScience/NuclearReliability/reactor_data")
+# All paths are relative to the repo, so the code runs from any clone
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT / "data" / "processed"
 
 # Our cleaned reactor data lives here
-cleaned_dir = DATA_DIR / "cleaned_data"
+cleaned_dir = DATA_DIR / "nrc" / "cleaned_data"
 
 # Tuning period cutoffs (2000-2022) used to choose each model's settings
 CUTOFFS = pd.to_datetime(["2009-01-01", "2011-01-01", "2013-01-01", "2015-01-01", "2017-01-01" , "2020-01-01"])
@@ -617,6 +618,7 @@ def main():
     quarter_df, sarima_models = sarima_forecasts(quarter_df, refueling_df)
 
     all_scores = score_models(quarter_df)
+    all_scores[["Unit", "seasonal_average"]].to_csv(DATA_DIR / "seasonal_average_scores.csv", index=False)
     plot_scores(all_scores)
     plot_forecasts(quarter_df, "Region 1")
 

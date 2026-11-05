@@ -11,11 +11,12 @@ from sklearn.metrics import mean_absolute_error as mae
 
 from tqdm.auto import tqdm
 
-# Change DATA_DIR to wherever the reactor_data folder is on your computer
-DATA_DIR = Path("/Users/vassu/Desktop/Erdos_DataScience/NuclearReliability/reactor_data")
+# All paths are relative to the repo, so the code runs from any clone
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT / "data" / "processed"
 
 # Our cleaned reactor data lives here
-cleaned_dir = DATA_DIR / "cleaned_data"
+cleaned_dir = DATA_DIR / "nrc" / "cleaned_data"
 
 # The test period (2023-2025) starts here
 TRAINING_PERIOD = pd.Timestamp("2023-01-01")
@@ -282,6 +283,27 @@ def summarize(model_scores):
 
     return summary
 
+def bootstrap_improvement(model_scores, n_resamples=20000, seed=2026):
+
+    # Compare against the seasonal average scores saved by PreliminaryForecasts.py
+    baseline = pd.read_csv(DATA_DIR / "seasonal_average_scores.csv")
+    merged = baseline.merge(model_scores[["Unit", "MAE"]].astype({"Unit": str}), on="Unit")
+
+    baseline_mae = merged["seasonal_average"].to_numpy()
+    xgb_mae = merged["MAE"].to_numpy()
+
+    # Resample the reactors with replacement. Each row of idx is one resample.
+    rng = np.random.default_rng(seed)
+    idx = rng.integers(0, len(merged), (n_resamples, len(merged)))
+
+    improvement = 1 - xgb_mae[idx].mean(axis=1) / baseline_mae[idx].mean(axis=1)
+    low, high = np.percentile(improvement, [2.5, 97.5])
+
+    print(f"XGBoost improvement over seasonal average: {1 - xgb_mae.mean() / baseline_mae.mean():.1%}")
+    print(f"95% bootstrap interval: {low:.1%} to {high:.1%}")
+
+    return low, high
+
 def main():
 
     df = load_daily_data()
@@ -301,6 +323,7 @@ def main():
     plot_forecasts(training_df, testing_df, "Region 1")
 
     summarize(model_scores)
+    bootstrap_improvement(model_scores)
 
 if __name__ == "__main__":
     main()

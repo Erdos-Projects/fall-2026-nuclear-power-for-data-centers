@@ -11,7 +11,8 @@ from bs4 import BeautifulSoup
 
 URL = "https://www.nrc.gov/facilities-safety/facility-finder/reactors"
 STATES_SHAPEFILE = "https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_state_20m.zip"
-OUTDIR = Path("reactor_data")
+# Paths are relative to the repo, so the code runs from any clone
+OUTDIR = Path(__file__).resolve().parents[1] / "data" / "processed" / "nrc"
 
 REACTOR_LINK = re.compile(r"/(?:facility-finder/reactors|combined-license-holders-for-new-reactors)/([a-z0-9-]+)/?$")
 
@@ -100,7 +101,7 @@ def plot_region_bar(df):
 
 def main():
 
-    OUTDIR.mkdir(exist_ok=True)
+    OUTDIR.mkdir(parents=True, exist_ok=True)
     html_file = OUTDIR / "reactor_list.html"
 
     download_page(URL, html_file)

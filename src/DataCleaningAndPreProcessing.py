@@ -12,10 +12,16 @@ from concurrent.futures import ThreadPoolExecutor
 import time
 import threading
 
-# Change DATA_DIR to wherever the reactor_data folder is on your computer
-DATA_DIR = Path("/Users/vassu/Desktop/Erdos_DataScience/NuclearReliability/reactor_data")
-outdir = DATA_DIR / "daily_reports"
-yearly_dir = DATA_DIR / "yearly_reports"
+# All paths are relative to the repo, so the code runs from any clone
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT / "data"
+
+# Downloaded NRC reports. data/raw is not committed to GitHub
+daily_dir = DATA_DIR / "raw" / "nrc" / "daily_reports"
+yearly_dir = DATA_DIR / "raw" / "nrc" / "yearly_reports"
+
+# Cleaned outputs that PreliminaryForecasts and AdvancedForecasts read
+cleaned_dir = DATA_DIR / "processed" / "nrc" / "cleaned_data"
 
 URL="https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/"
 
@@ -85,7 +91,7 @@ def generate_df():
     # The start is inclusive but stop is excluded
     for year in range(2000, 2026):
 
-        outfile = outdir / f'{year}DailyReports.csv'
+        outfile = daily_dir / f'{year}DailyReports.csv'
 
         if not outfile.exists():
 
@@ -165,7 +171,7 @@ def initial_cleanup(df):
     columns_to_keep = ["date", "Region", "Unit", "Power", "Down", "Reason"]
 
     for year, year_df in new_df.groupby(new_df["date"].dt.year):
-        year_df[columns_to_keep].to_csv(outdir/f"CleanedData_{year}.csv", sep="\t", index=False)
+        year_df[columns_to_keep].to_csv(cleaned_dir/f"CleanedData_{year}.csv", sep="\t", index=False)
 
     print("After removing currently unoperating reactors, we now have", new_df["Unit"].nunique(), "reactors")
 
@@ -383,7 +389,8 @@ def plot_outage_categories(outages, x_limits):
 
 def main():
 
-    outdir.mkdir(parents=True, exist_ok=True)
+    daily_dir.mkdir(parents=True, exist_ok=True)
+    cleaned_dir.mkdir(parents=True, exist_ok=True)
     df = generate_df()
 
     print(" ")
@@ -404,7 +411,7 @@ def main():
     plot_outage_categories(outages_df, { "refueling outage":100, "unplanned":25, "planned/maintenance outage":30,  "unknown": 20, "weather related outage": 100})
 
     # PreliminaryForecasts and AdvancedForecasts read this file (tab separated)
-    outages_df[["Unit", "Region", "Start_Date", "End_Date", "Outage_Duration", "outage_reason"]].to_csv(outdir/"outages_data.csv", sep="\t", index=False)
+    outages_df[["Unit", "Region", "Start_Date", "End_Date", "Outage_Duration", "outage_reason"]].to_csv(cleaned_dir/"outages_data.csv", sep="\t", index=False)
 
 if __name__ == "__main__":
     main()
