@@ -85,3 +85,9 @@ Each model's MAE is computed per reactor over the 12 test quarters (2023–2025)
 | `src/DataCleaningAndPreProcessing.py` | Cleans and preprocesses daily operational data for all 94 operating U.S. nuclear reactors using NRC daily reports. |
 | `src/PreliminaryForecasts.py` | Performs forecasting using four models: Seasonal Naive, Seasonal Average, Holt-Winters, and SARIMA. |
 | `src/AdvancedForecasts.py` | Performs forecasting using XGBoost. |
+
+## Reproduce the results
+
+pip install -r requirements.txt
+
+Run the notebooks in this order: `DataCleaningAndPreProcessing`, `PreliminaryForecasts`, `AdvancedForecasts`.
