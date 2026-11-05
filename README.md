@@ -5,6 +5,8 @@ Data centers need large amounts of power around the clock, and nuclear reactors 
 
 This project uses 25+ years of US Nuclear Regulatory Commission (NRC) data to measure how reliably each US reactor delivers power and to forecast its output.
 
+   📄 [Read the full report](reports/Nuclear_Reliability_Report.pdf) · 📊 [View the slides](reports/Nuclear_Reliability_Slides.pdf)
+
 ## The fleet
 
 We study the **94 currently operating US commercial reactors**, grouped into the NRC's four regions.
