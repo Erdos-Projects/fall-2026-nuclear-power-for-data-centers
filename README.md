@@ -1,7 +1,7 @@
 # fall-2026-nuclear-power-for-data-centers
 Team project: fall-2026-nuclear-power-for-data-centers
 
-Data centers need large amounts of power around the clock, and nuclear reactors are one of the few sources that can supply it steadily. Reactors still go offline, though, for scheduled refueling, maintenance and unexpected faults. When they do, the missing output has to come from somewhere else.
+Data centers need large amounts of power around the clock, and unlike gas, nuclear can supply it steadily without carbon emissions. Reactors still go offline, though, for scheduled refueling, maintenance and unexpected faults. When they do, the missing output has to come from somewhere else.
 
 This project uses 25+ years of US Nuclear Regulatory Commission (NRC) data to measure how reliably each US reactor delivers power and to forecast its output.
 
@@ -13,6 +13,10 @@ We study the **94 currently operating US commercial reactors**, grouped into the
 
 ![Operating US nuclear reactors by NRC region](reports/reactors_by_region.png)
 
+## Why this matters
+
+Over 2016–2025, average output ranged from 74.8% to 95.9% of full power. Using only public data, this project gives a data center buyer a consistent forecast of each reactor's output for the next quarter. The [report](reports/Nuclear_Reliability_Report.pdf) includes a worked dollar example for Watts Bar 2.
+
 ## Data
 
 All data comes from the US Nuclear Regulatory Commission (NRC):
@@ -22,7 +26,7 @@ All data comes from the US Nuclear Regulatory Commission (NRC):
 | [NRC reactor facility finder](https://www.nrc.gov/facilities-safety/facility-finder/reactors) | Name, NRC region and state of each operating reactor |
 | [NRC power reactor status reports](https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/) | Daily power output of each reactor (as a % of full power) from 2000 to 2025, with the reason for any day below 100% |
 
-We clean this data in `notebooks/DataCleaningAndPreProcessing.ipynb`. That step groups each run of consecutive days below full power into one **outage** and labels it as **refueling**, **planned maintenance** or **unplanned**.
+We clean this data in `notebooks/DataCleaningAndPreProcessing.ipynb`. That step groups each run of consecutive zero power days into one **outage** and labels it as **refueling**, **planned maintenance** or **unplanned**.
 
 **Finding:** Unplanned outages happen most often (44% of all outages), but they tend to be short. Refueling outages are fewer and much longer: they account for about **81% of zero-power days**, while unplanned outages account for only about 13%.
 
