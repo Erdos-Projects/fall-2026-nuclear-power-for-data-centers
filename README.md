@@ -55,7 +55,7 @@ The five models are:
 - **Seasonal average:** averages that same point over the last *k* refueling cycles.
 - **Holt-Winters:** exponential smoothing that tracks the level and seasonal pattern.
 - **SARIMA:** a seasonal time series model of past power.
-- **XGBoost:** gradient-boosted trees that also use the reactor, time since the last refueling, the last cycle and recent power.
+- **XGBoost:** gradient-boosted trees that use reactor features such as time since the last refueling, power at the same point in the last cycle, recent power, the length of the last refueling, the calendar quarter and the reactor itself.
 
 Each model's settings are chosen on the training period only, but in a different way:
 
