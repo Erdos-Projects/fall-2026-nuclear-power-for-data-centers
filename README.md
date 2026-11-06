@@ -96,6 +96,7 @@ Each model's MAE is computed per reactor over the 12 test quarters (2023–2025)
 | `src/DataCleaningAndPreProcessing.py` | Downloads NRC daily reports, then cleans them, groups zero-power days into outages and labels each outage by type. |
 | `src/PreliminaryForecasts.py` | Performs forecasting using four models: Seasonal Naive, Seasonal Average, Holt-Winters, and SARIMA. |
 | `src/AdvancedForecasts.py` | Performs forecasting using XGBoost. |
+| `src/WheretheGainComes.py` | Shows where XGBoost's improvement comes from: false alarms and low-power quarters. |
 
 ## Reproduce the results
 
