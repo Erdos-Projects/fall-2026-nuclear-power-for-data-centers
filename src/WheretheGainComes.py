@@ -1,11 +1,3 @@
-"""Where does XGBoost's improvement over seasonal average come from?
-
-Compares the two forecasts on the 2023-2025 test quarters (92 reactors, 12 quarters each).
-A low-power quarter is one with average power below 90% of full power.
-A false alarm is a forecast below 90% for a quarter that actually stayed at 90% or above.
-
-Run from the src folder: python WhereTheGainComes.py
-"""
 import pandas as pd
 import xgboost
 
