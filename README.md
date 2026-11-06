@@ -81,6 +81,18 @@ Each model's MAE is computed per reactor over the 12 test quarters (2023–2025)
 
 ## Repo Structure
 
+## Repo Structure
+
+| Folder | What it Contains |
+|---|---|
+| `data/raw/nrc/` | Raw NRC data: daily reports in `daily_reports/` and yearly power status files in `yearly_reports/`. |
+| `data/processed/nrc/` | Cleaned data: the reactor list, combined daily data, per-reactor daily files in `daily/`, and yearly cleaned files and outages in `cleaned_data/`. |
+| `data/processed/` | Seasonal average scores, which `AdvancedForecasts` uses to measure XGBoost's improvement. |
+| `notebooks/` | Notebook versions of the code in `src/`, plus `exploratory_analysis.ipynb`. |
+| `src/` | Python code for the map, data cleaning and forecasting models. |
+| `scripts/` | Scripts that download, process and combine the raw NRC daily data. |
+| `reports/` | The project report, the slides, and the figures used in this README. |
+
 | Code | What it Does |
 |---|---|
 | `src/ReactorMap.py` | Generates a map of operating nuclear reactors across the United States. |
