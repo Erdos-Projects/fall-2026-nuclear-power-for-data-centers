@@ -81,8 +81,6 @@ Each model's MAE is computed per reactor over the 12 test quarters (2023–2025)
 
 ## Repo Structure
 
-## Repo Structure
-
 | Folder | What it Contains |
 |---|---|
 | `data/raw/nrc/` | Raw NRC data: daily reports in `daily_reports/` and yearly power status files in `yearly_reports/`. |
