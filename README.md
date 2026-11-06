@@ -49,6 +49,14 @@ We train on **2000–2022** and test on **2023–2025** (12 quarters, 92 reactor
 
 All models forecast **one quarter ahead, walk-forward**: each test quarter is forecast using only data up to the end of the previous quarter.
 
+The five models are:
+
+- **Seasonal naive:** repeats the value from the same point in the last refueling cycle.
+- **Seasonal average:** averages that same point over the last *k* refueling cycles.
+- **Holt-Winters:** exponential smoothing that tracks the level and seasonal pattern.
+- **SARIMA:** a seasonal time series model of past power.
+- **XGBoost:** gradient-boosted trees that also use the reactor, time since the last refueling, the last cycle and recent power.
+
 Each model's settings are chosen on the training period only, but in a different way:
 
 | Model | What is tuned | How |
