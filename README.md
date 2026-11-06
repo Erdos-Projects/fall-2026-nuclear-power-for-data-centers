@@ -86,7 +86,7 @@ Each model's MAE is computed per reactor over the 12 test quarters (2023–2025)
 | `data/raw/nrc/` | Raw NRC data: daily reports by year in `daily_reports/` and yearly power status files in `yearly_reports/`.|
 | `data/processed/nrc/` | Cleaned data: the reactor list, yearly cleaned files and outages in `cleaned_data/`|
 | `data/processed/` | Seasonal average scores, which `AdvancedForecasts` uses to measure XGBoost's improvement. |
-| `notebooks/` | Notebook versions of the code in `src/`, plus `exploratory_analysis.ipynb`, an early look at the data from `scripts/`. |
+| `notebooks/` | Notebook versions of the code in `src/`|
 | `src/` | Python code for the map, data cleaning and forecasting models. |
 | `reports/` | The project report, the slides, and the figures used in this README. |
 
