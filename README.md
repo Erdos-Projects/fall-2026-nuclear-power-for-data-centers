@@ -82,10 +82,10 @@ Each model's MAE is computed per reactor over the 12 test quarters (2023–2025)
 ![Test MAE by Region](reports/mae_by_region.png)
 
 - **Among the four simpler models, the seasonal average does best.** It has the lowest mean error, 5.59. SARIMA's median is about the same (3.91 vs 3.94), but SARIMA does much worse on the hardest reactors.
-- **XGBoost is the best model overall.** All models forecast one quarter ahead over the same test quarters, so the comparison is direct. XGBoost cuts the mean error from 5.59 (seasonal average) to 4.31, about 23%, and the median from 3.94 to 2.96.
-- **Errors are concentrated in a few reactors.** For every model the mean is well above the median, and the worst reactors have errors around 30. XGBoost's largest errors are for Sequoyah 2 (Region 2, 30.3), Waterford 3 (Region 4, 19.9) and Prairie Island 1 (Region 3, 19.0). No model anticipates refueling outages that run much longer than usual, changes in cycle length, or unplanned outages.
-- **The gain varies by reactor.** XGBoost beat seasonal average on 70 of 92 reactors, with the largest gains on reactors where seasonal average struggled. The 23% improvement has a 95% bootstrap interval of 15% to 31%, resampling reactors.
-- **The gain comes from fewer false alarms.** Using 90% power as the reference, seasonal average predicted a low-power quarter that didn't happen 74 times across the 1,104 reactor-quarters in the 2023–2025 test period, and XGBoost 24 times. In quarters that really were low-power, the two were about tied.
+- **XGBoost is the best model overall.** All models forecast one quarter ahead over the same test quarters, so the comparison is direct. XGBoost cuts the mean error from 5.59 (seasonal average) to 4.31, about 23% (95% bootstrap interval across reactors: 15% to 31%), and the median from 3.94 to 2.96.
+- **Errors are concentrated in a few reactors.** For every model the mean is well above the median, and the worst reactors have errors around 30. XGBoost's largest errors are for Sequoyah 2 (Region 2, 30.3), Waterford 3 (Region 4, 19.9) and Prairie Island 1 (Region 3, 19.0). No model reliably anticipates refueling outages that run much longer than usual, changes in cycle length, or unplanned outages.
+- **The gain varies by reactor.** XGBoost beat seasonal average on 70 of 92 reactors, with the largest gains on reactors where seasonal average struggled.
+- **The gain comes from fewer false alarms.** Using 90% power as the reference, seasonal average predicted a low-power quarter that didn't happen 74 times across the 1,104 reactor-quarters in the 2023–2025 test period, and XGBoost 24 times. In quarters that really were low-power, the two were about tied overall.
 - **Test discipline.** All model settings were chosen using data through 2022, before evaluating the 2023–2025 test period.
 
 ## Repo Structure
