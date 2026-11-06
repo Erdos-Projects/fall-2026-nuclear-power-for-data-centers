@@ -141,7 +141,7 @@ html{font-size:14px}
   </div>
 </div>
 <div class="in"><footer class="foot">
-  <p><span id="fleet"></span> Forecast results are from the 2023–2025 test period, not a live forecast. Use the checkboxes above the chart to hide or show each model. A zero-power day is a day the NRC daily report lists the reactor at 0%, so days at reduced power are not counted. Selecting a quarter also selects its year in the zero-power chart. Outages that cross New Year are split between the two years. Outage causes come from the NRC report text and can be wrong: Browns Ferry 1 was shut down from 1985 until 2007, which shows here as refueling. Hatched years have no data. Watts Bar 2 starts in October 2016, and Vogtle 3 and 4 are left out because they started too recently.</p>
+  <p><span id="fleet"></span> Forecast results are from the 2023–2025 test period, not a live forecast. Use the checkboxes above the chart to hide or show each model. A zero-power day is a day the NRC daily report lists the reactor at 0%, so days at reduced power are not counted. Hovering over or selecting a quarter also selects its year in the zero-power chart. Outages that cross New Year are split between the two years. Outage causes come from the NRC report text and can be wrong: Browns Ferry 1 was shut down from 1985 until 2007, which shows here as refueling. Hatched years have no data. Watts Bar 2 starts in October 2016, and Vogtle 3 and 4 are left out because they started too recently.</p>
   <p>Source: <a href="https://github.com/Erdos-Projects/fall-2026-nuclear-power-for-data-centers">Nuclear Reliability project</a>, using <a href="https://www.nrc.gov/documents-reports/document-collections/events-reports-associated-with/power-reactor-status-reports/">NRC power reactor status reports</a>.</p>
 </footer></div>
 <script>
@@ -238,7 +238,7 @@ $('usmap').addEventListener('keydown',e=>{const p=e.target.closest('path.has');i
 $('mapCap').addEventListener('click',e=>{const b=e.target.closest('button');if(b){$('unit').value=b.dataset.n;render()}});
 ['tX','tS','tN','tH','tM'].forEach(id=>$(id).addEventListener('change',()=>drawLine(byName[$('unit').value])));
 $('hits').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;st.q=+b.dataset.i;st.yi=+Q[st.q].slice(0,4)-Y0;render()});
-$('hits').addEventListener('mouseover',e=>{const b=e.target.closest('button');if(!b)return;const k=+b.dataset.i;if(k===st.q)return;st.q=k;const r=byName[$('unit').value];drawLine(r);readQ(r)});
+$('hits').addEventListener('mouseover',e=>{const b=e.target.closest('button');if(!b)return;const k=+b.dataset.i;if(k===st.q)return;st.q=k;const r=byName[$('unit').value];drawLine(r);readQ(r);const yi=+Q[k].slice(0,4)-Y0;if(yi!==st.yi){st.yi=yi;drawYears(r);readY(r)}});
 $('bars').addEventListener('click',e=>{const b=e.target.closest('.yr');if(!b)return;st.yi=+b.dataset.i;const r=byName[$('unit').value];drawYears(r);readY(r)});
 $('year').addEventListener('change',()=>{st.yi=+$('year').value;const r=byName[$('unit').value];drawYears(r);readY(r)});
 const avg=k=>R.reduce((t,r)=>t+r[k],0)/R.length;
