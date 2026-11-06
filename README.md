@@ -29,7 +29,7 @@ All data comes from the US Nuclear Regulatory Commission (NRC):
 
 We clean this data in `notebooks/DataCleaningAndPreProcessing.ipynb`. That step groups each run of consecutive zero power days into one **outage** and labels it as **refueling**, **planned maintenance** or **unplanned**.
 
-**Finding:** Unplanned outages happen most often (44% of all outages), but they tend to be short. Refueling outages are fewer and much longer: they account for about **81% of zero-power days**, while unplanned outages account for only about 13%.
+**Finding:** Unplanned outages happen most often (44% of all outages), but they tend to be short. Refueling outages are fewer and much longer: they account for about **80% of zero-power days**, while unplanned outages account for only about 14%.
 
 ## What the data looks like
 
