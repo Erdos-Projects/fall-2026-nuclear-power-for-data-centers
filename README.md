@@ -4,7 +4,9 @@ Data centers need large amounts of power around the clock, and unlike gas, nucle
 
 This project uses 25+ years of US Nuclear Regulatory Commission (NRC) data to measure how reliably each US reactor delivers power and to forecast its output.
 
-   📄 [Read the full report](reports/Nuclear_Reliability_Project_Report.pdf) · 📊 [View the slides](reports/NuclearReliability.pdf) **[Try the interactive Reactor Explorer](https://htmlpreview.github.io/?https://github.com/Erdos-Projects/fall-2026-nuclear-power-for-data-centers/blob/main/reports/reactor_explorer.html)**: pick a reactor or click a state to see how all five models forecast its power over the 2023–2025 test period, including each model's false alarms, what caused each low quarter, and its zero-power days by year.
+   📄 [Read the full report](reports/Nuclear_Reliability_Project_Report.pdf) · 📊 [View the slides](reports/NuclearReliability.pdf) 
+   
+**[Try the interactive Reactor Explorer](https://htmlpreview.github.io/?https://github.com/Erdos-Projects/fall-2026-nuclear-power-for-data-centers/blob/main/reports/reactor_explorer.html)**: pick a reactor or click a state to see how all five models forecast its power over the 2023–2025 test period, including each model's false alarms, what caused each low quarter, and its zero-power days by year.
 
 ## The fleet
 
