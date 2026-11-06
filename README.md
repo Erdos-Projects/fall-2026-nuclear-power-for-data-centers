@@ -75,8 +75,8 @@ Each model's MAE is computed per reactor over the 12 test quarters (2023–2025)
 |---|---|---|---|---|---|---|
 | Seasonal naive | 6.15 | 2.53 | 4.33 | 6.97 | 11.55 | 32.87 |
 | Seasonal average (*k* = 3) | 5.59 | 2.40 | 3.94 | 6.18 | 11.10 | 31.97 |
-| Holt-Winters | 6.22 | 2.84 | 4.64 | 7.02 | 12.67 | 30.97 |
-| SARIMA | 6.62 | 2.55 | 3.99 | 7.61 | 15.47 | 32.79 |
+| Holt-Winters | 6.05 | 2.92 | 4.34 | 6.98 | 11.33 | 30.81 |
+| SARIMA | 6.42 | 2.53 | 3.91 | 7.41 | 14.93 | 32.69 |
 | **XGBoost** | **4.31** | **2.03** | **2.96** | **4.51** | **8.02** | **30.33** |
 
 ![Test MAE by Region](reports/mae_by_region.png)
