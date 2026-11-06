@@ -362,7 +362,7 @@ def tune_holt_winters(quarter_df, refueling_df):
 
                 model = ExponentialSmoothing( train_set, seasonal='add', seasonal_periods=length).fit(smoothing_level=alpha, smoothing_seasonal=gamma, optimized=False)
 
-                fold_scores.append(mae(val_set, model.forecast(len(val_set))))
+                fold_scores.append(mae(val_set, np.clip(model.forecast(len(val_set)), 0, 100)))
 
             if len(fold_scores) == 0:
                 continue
@@ -400,7 +400,7 @@ def holt_winters_forecasts(quarter_df, refueling_df, results):
             # only keeping the past 4 cycles
             model = ExponentialSmoothing(y[:j][-4*length:], seasonal='add', seasonal_periods=length).fit(smoothing_level=alpha, smoothing_seasonal=gamma, optimized=False)
 
-            holt_winter.append(model.forecast(1)[0])
+            holt_winter.append(np.clip(model.forecast(1)[0], 0, 100))
 
         quarter_df.loc[unit_df.index, "holt_winter"] = holt_winter
 
@@ -492,11 +492,11 @@ def sarima_forecasts(quarter_df, refueling_df):
             if (j < length):
                 arima.append(np.nan)
             else:
-                arima.append(in_sample[j])
+                arima.append(np.clip(in_sample[j], 0, 100))
 
         # Test quarters, walk forward: forecast the next quarter, then add its actual value before moving on
         for actual in y[n_train:]:
-            arima.append(model.predict(n_periods=1)[0])
+            arima.append(np.clip(model.predict(n_periods=1)[0], 0, 100))
             model.update([actual])
 
         quarter_df.loc[unit_df.index, "arima"] = arima
